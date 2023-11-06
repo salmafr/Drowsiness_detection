@@ -26,4 +26,4 @@ This project is a drowsiness detection system using machine learning. It monitor
 
    ```bash
    git clone https://github.com/salmafr/Drowsiness-detection.git
-   cd drowsiness-detection
+   cd Drowsiness-detection
